@@ -1,2 +1,1 @@
-# Web-development
-Want to see what I can cook up with HTML, CSS, and JavaScript? Dive into this repository for a taste of my web development skills!
+Want to keep your health in check?  This repository features a user-friendly BMI calculator I built using web development tools. Check it out and explore my coding journey!
